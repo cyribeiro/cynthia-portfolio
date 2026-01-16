@@ -12,8 +12,8 @@ Tech: C#, .NET, ASP.NET Core, REST APIs
 
 ---
 
-### 2) Java Task Manager (Console App)
-Repository: https://github.com/cyribeiro/java-task-manager  
+### 2) Java IT ticket logger (Console App)
+Repository: https://github.com/cyribeiro/java-it-ticket-logger 
 Description: A console-based Java application built to practise object-oriented programming and problem-solving.
 
 Tech: Java, OOP
